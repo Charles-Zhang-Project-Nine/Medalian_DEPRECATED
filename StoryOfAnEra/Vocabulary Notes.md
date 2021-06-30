@@ -2,7 +2,7 @@ p. particle
 prep. preposition
 
 <!--A-->
-apola a3po3la1 (not a1po3la5): era.
+apola ə2po1la5: era.
 <!--B-->
 <!--C-->
 <!--D-->
