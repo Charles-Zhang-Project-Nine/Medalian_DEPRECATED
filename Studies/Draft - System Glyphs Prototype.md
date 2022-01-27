@@ -64,7 +64,7 @@ There are also those sounds made from a sort of "**韵母+声母**" structure:
 
 Depending on how we look at it, there may exist 音元 exhibiting **(C+)V+C+C** structure, i.e. having an additional consonant at the end. For instance, "mind (mænd)", "behind (bihænd)" and old-pronounciation of "wind (wænd)".
 
-An example of CVV is: 天 tian *tiη*, where "tiη" is almost like "ti+yη" but not quite since that i+y is effectively merged together through a single transition (much like tonal change in Chinese and Cantonese) - and it certainly is not just "t-yη" because "tiη" should have that "i" sound.
+An example of CVV is: 天 tian *tiη*, where "tiη" is almost like "ti+yη" but not quite since that i+y is effectively merged together through a single transition (much like tonal change in Chinese and Cantonese) - and it certainly is not just "t-yη" because "tiη" should have that "i" sound. Other cases when we consider 促音 or long-short vowels, we can considerably make in a single sound: "keu" (ke-u) vs "ke-wu".
 
 ## Voewl + Consonant + Vowel (VCV), Voewl + Consonant + Vowel + Consonant (VCVC)
 
