@@ -3,7 +3,7 @@ WARNING: I HAVE SINCE ADDED NEW CONSONANTS (AND EVEN VOWELS) TO [THE COMPREHENSI
 <!--Some remark on related English terminology:
 * morpheme: 语素, 词素-->
 
-# “语素词叶系统”基本组合
+# “语素词叶系统”基本组合 ("YY")
 
 The below enumerations list what we call "音元", when such **音元** have semantic significance in a language, they are called **语素**; **词叶** refers to the building blocks of advanced vocabulary in such a system based on **语素**. English does not fall in this system; Japanese kind of; Chinese does.
 
