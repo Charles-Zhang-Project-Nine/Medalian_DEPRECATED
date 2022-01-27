@@ -1,1 +1,0 @@
-Hasit ista ðakutek penani talue, 
