@@ -1,4 +1,4 @@
-![Medalian Multi-Language](Scripts/Medala%20-%20Multi%20Language.png)
+![Medalian Multi-Language](Assets/Medala%20Script%20-%20Multi%20Language.png)
 
 # Medalian
 
