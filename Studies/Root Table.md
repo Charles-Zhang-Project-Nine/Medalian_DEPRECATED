@@ -2,6 +2,14 @@
 
 All primary meanings/1st class YY/single-YY/vocabulary roots with 1st-class meanings. Devices: YY, tone.
 
+*Pure Consonant Words*
+
+Use with pause
+
+| Word | Meaning |
+| --- | --- |
+| p | orange (color) |
+
 *Phoneme Vowels*
 
 | Root| Long Form (YY Form) | Meaning |
@@ -15,7 +23,7 @@ All primary meanings/1st class YY/single-YY/vocabulary roots with 1st-class mean
 | ɜ | _ɜ |  |
 | ə | _ə |  |
 | ɘ | _ɘ |  |
-| i | yi | yi3: fancy (adjective.), formal, don't use alone (e.g. "ili" - pretty/fabulous); yi2: Three; yi5: to eat. |
+| i | yi (ii) | yi3: fancy (adjective.), formal, don't use alone (e.g. "ili" - pretty/fabulous); yi2: Three; yi5: to eat. |
 | ʩ | _ʩ |  |
 | o | oo |  |
 | ơ | _ơ |  |
@@ -33,6 +41,26 @@ All primary meanings/1st class YY/single-YY/vocabulary roots with 1st-class mean
 | yi3 | to see |
 | yi5 | to eat |
 |  |  |
+
+*Colors*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| ai (a-i) | Red |
+| iř | Yellow |
+| in5 | Blue |
+| æʂ | Green |
+| pu2 | White |
+| si5 | Black |
+|  | Cyan |
+|  | Magenta |
+|  | Purple |
+| p | Orange |
+| sa3 | Rose (Color) |
+|  | Violet (Color) |
+|  | Azure (Color) |
+|  | Spring Gree (Color) |
+|  | Chartreuse (Color) |
 
 *Natural Elements*
 
