@@ -71,6 +71,7 @@ Use with pause
 | jia2 |  |
 | jia3 |  |
 | ji5a1 |  |
+| pa5 | Electricity/Lightening (as observed from lightening and sky) |
 
 *Numbers*
 
