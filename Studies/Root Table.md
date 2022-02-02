@@ -109,3 +109,10 @@ Use with pause
 | YY (Tone) | Meaning |
 | --- | --- |
 | ip (41) | Distant |
+
+*Relationship*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| da5 | Father |
+| me3' | Mother |
