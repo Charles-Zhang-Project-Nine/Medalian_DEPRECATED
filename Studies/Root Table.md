@@ -93,3 +93,19 @@ Use with pause
 | YY (Tone) | Meaning |
 | --- | --- |
 | oo5 | Countable individual objects |
+
+*Emotions*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| wi3 | Happy, happiness |
+| y(ɪn)2 | Excited, excitement |
+| sơ (sol)1 | Sad, sadness |
+| ʒε/ʒi1 | Brave, bravery |
+| sil | Lonely, loniness |
+
+*Spatial*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| ip (41) | Distant |
