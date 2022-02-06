@@ -62,13 +62,15 @@ There are also those sounds made from a sort of "**韵母+声母**" structure:
 
 ## 声母+韵母+辅音+辅音 (CVCC), Vowel + Consonant + Consonant (VCC), Consonant + Vowel + Vowel (CVV)
 
-Depending on how we look at it, there may exist 音元 exhibiting **(C+)V+C+C** structure, i.e. having an additional consonant at the end. For instance, "mind (mænd)", "behind (bihænd)" and old-pronounciation of "wind (wænd)".
+Depending on how we look at it, there may exist 音元 exhibiting **(C+)V+C+C** structure, i.e. having an additional consonant at the end. For instance, "mind (mænd)", "behind (bihænd)" and old-pronounciation of "wind (wænd)". Examples of VCC: "Ids".
 
 An example of CVV is: 天 tian *tiη*, where "tiη" is almost like "ti+yη" but not quite since that i+y is effectively merged together through a single transition (much like tonal change in Chinese and Cantonese) - and it certainly is not just "t-yη" because "tiη" should have that "i" sound. Other cases when we consider 促音 or long-short vowels, we can considerably make in a single sound: "keu" (ke-u) vs "ke-wu".
 
-## Voewl + Consonant + Vowel (VCV), Voewl + Consonant + Vowel + Consonant (VCVC)
+## [Deprecated] Voewl + Consonant + Vowel (VCV), Voewl + Consonant + Vowel + Consonant (VCVC) -> THOSE ARE 2 YYs
 
 This is technically V+CV, e.g. *aʂa*, *aʂi*, but it's like naturally appending a vowel after *aʂ*, and can be spoken smoothly with a single aspiration, so we can consider them as constituting a single 音元; An example would be brahmic script (Devanagari) *ekas* "एकस्". As "एकस्" goes: this is an example of VCVC (treated as a single 音元 here because it's certainly NOT to be treated as *ek-as*, which will be true double-音元; So the ceriteria here is that it's intended to be treated as single word, so VCVC is counted as a single 音元 rather than treated as VC+VC) - notice this sounds and speaks very different from *eksa* (音元x2) or *ekasa* "एकस" (音元x2).
+
+All above is deprecated! *ekas* is two YY because it's actually *e* + *kas* - no matter how fast you speak it. Also *aʂa* and *aʂi* are simply *a*+*ʂa*, *a*+*ʂi* (indistinguishable from being considered as appending a vowel after *aʂ*). The key here is to understand to pronounce ekas, aʂi or aʂa, **one must change the shape of mouth twice (or thrice)**.
 
 ## Consonant + Consonant + Voewl (CCV)
 

@@ -2,6 +2,13 @@
 
 All primary meanings/1st class YY/single-YY/vocabulary roots with 1st-class meanings. Devices: YY, tone.
 
+# Rules
+
+* Notice every single-YY can *override meanings of otherwise singleton pure Consonant or pure Phoneme vowels*
+* We should usually reserve Tone 1 and Tone 5 together instead of distinguish them too much.
+
+## Content
+
 *Pure Consonant Words*
 
 Use with pause
@@ -10,11 +17,11 @@ Use with pause
 | --- | --- |
 | p | orange (color) |
 
-*Phoneme Vowels*
+*Pure Phoneme Vowels*
 
 | Root| Long Form (YY Form) | Meaning |
 | --- | --- | --- |
-| a | aa | 感叹词, standalone use or sentence-end; For sentence-ending, also use oo. |
+| a | aa | a 1/a 5: Matter, thing; a 2: 感叹词, standalone use or sentence-end. For sentence-ending, also use oo. |
 | æ | _æ |  |
 | η | _η | Negation, standalone use only, equivalent to "no" in English. Formal. |
 | ɑ | _ɑ |  |
@@ -23,23 +30,30 @@ Use with pause
 | ɜ | _ɜ |  |
 | ə | _ə |  |
 | ɘ | _ɘ |  |
-| i | yi (ii) | yi3: fancy (adjective.), formal, don't use alone (e.g. "ili" - pretty/fabulous); yi2: Three; yi5: to eat. |
+| i | yi (ii) | yi 2: Three; (y)i 3: Water; yi 4: fancy (adjective.), formal, don't use alone (e.g. "ili" - pretty/fabulous); yi 5: to eat. |
 | ʩ | _ʩ |  |
 | o | oo |  |
 | ơ | _ơ |  |
 | ꝍ | _ꝍ |  |
-| ř | iř | iř4: Questioning. "iř?" |
+| ř | iř | iř 4: Questioning. "iř?" |
 | u | wu |  |
 | ⴢ | _ⴢ |  |
 | ɲ | _ɲ |  |
 | ü | yu | Transitional use, starting of a new sentence; Conversational (non-literal); Often use with "me". "yume..." |
 
+*Other Special Sound Words*
+
+| Word | Meaning |
+| --- | --- |
+| (Eng 4) (完全闭嘴、鼻音) | Signifies wondering, 咦？In medalian writing they have a glyph just for this word; This word doesn't have a corresponding Vowel/Consonant notation. |
+| (Eng 1) (完全闭嘴、鼻音) | Lika "ah" in Japanese; Acklowledgement. |
+
 *Actions*
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| yi3 | to see |
-| yi5 | to eat |
+| yi 3 | to see |
+| yi 5 | to eat |
 |  |  |
 
 *Colors*
@@ -48,15 +62,15 @@ Use with pause
 | --- | --- |
 | ai (a-i) | Red |
 | iř | Yellow |
-| in5 | Blue |
+| in 5 | Blue |
 | æʂ | Green |
-| pu2 | White |
-| si5 | Black |
+| pu 2 | White |
+| si 5 | Black |
 |  | Cyan |
 |  | Magenta |
 |  | Purple |
 | p | Orange |
-| sa3 | Rose (Color) |
+| sa 3 | Rose (Color) |
 |  | Violet (Color) |
 |  | Azure (Color) |
 |  | Spring Gree (Color) |
@@ -66,53 +80,88 @@ Use with pause
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| fi4a2 | Air |
-| fu5 | (Gushing) wind |
-| jia2 |  |
-| jia3 |  |
-| ji5a1 |  |
-| pa5 | Electricity/Lightening (as observed from lightening and sky) |
+| fia 42 | Air |
+| fu 5 | (Gushing) wind |
+| i 3 | Water (Iki 32: Lake, Water) |
+| jia 2 |  |
+| jia 3 | Mountain |
+| jia 51 |  |
+| pa 5 | Electricity/Lightening (as observed from lightening and sky) |
 
 *Numbers*
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| ņ5 | 0; When used alone usually comes with "ņ5oo5" or "ņ5no1" to mean "nothing (zero count)". |
-| na3 | 1 |
-| ua3 | 2 |
-| yi2 | 3 |
-| ɜ5 (en) | 4 |
-| ə5 | 5 |
-| ç1ka5 | 6 |
-| kua3 | 7 |
-| ga3 | 8 |
-| uη5 | 9 |
+| ņ 5 | 0; When used alone usually comes with "ņ5oo5" or "ņ5no1" to mean "nothing (zero count)". |
+| na 3 | 1 |
+| ua 3 | 2 |
+| yi 2 | 3 |
+| ɜ 5 (en) | 4 |
+| ə 5 | 5 |
+| ç1ka 5 | 6 |
+| kua 3 | 7 |
+| ga 3 | 8 |
+| uη 5 | 9 |
 
 *(Number) Quantifier*
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| oo5 | Countable individual objects |
+| oo 5 | Countable individual objects |
+| tim 5 | Numerous |
 
 *Emotions*
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| wi3 | Happy, happiness |
-| y(ɪn)2 | Excited, excitement |
-| sơ (sol)1 | Sad, sadness |
-| ʒε/ʒi1 | Brave, bravery |
-| sil | Lonely, loniness |
+| wi 3 | Happy, happiness |
+| y(ɪn) 2 | Excited, excitement |
+| sơ (sol) 1 | Sad, sadness |
+| ʒε/ʒi 1 | Brave, bravery |
+| si l | Lonely, loniness |
+
+*Common Adjectives*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+|  |  |
+
+*Geometry*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| dəs5 | Sphere, Spherical |
+| mip5 | Sqaure, Square-ish |
+| mus5 | Rectangle, Rectangular |
+| lis5 | Long, tabular |
 
 *Spatial*
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| ip (41) | Distant |
+| ip 41 | Distant |
+| ma 5 | Big |
+
+*Substance*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| ma 2 | Matter, Thing |
+| la 5 | People, humanly (E.g. Mela) |
 
 *Relationship*
 
 | YY (Tone) | Meaning |
 | --- | --- |
-| da5 | Father |
-| me3' | Mother |
+| da 5 | Father |
+| me 3' | Mother |
+
+*Uncatagorized*
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| mei/mey 5 | Motherly |
+| zar 5 | Brilliantly intellectual; Bright |
+| na 1/5 | Star, burning sun |
+| dζ 5 |  |
+| linm 5 |  |
