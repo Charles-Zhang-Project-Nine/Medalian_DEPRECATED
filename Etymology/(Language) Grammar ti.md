@@ -1,0 +1,1 @@
+ti -> te (per language name "Te Reo")

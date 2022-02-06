@@ -9,7 +9,7 @@ All primary meanings/1st class YY/single-YY/vocabulary roots with 1st-class mean
 
 ## Content
 
-*Pure Consonant Words*
+***Pure Consonant Words***
 
 Use with pause
 
@@ -17,12 +17,12 @@ Use with pause
 | --- | --- |
 | p | orange (color) |
 
-*Pure Phoneme Vowels*
+***Pure Phoneme Vowels***
 
 | Root| Long Form (YY Form) | Meaning |
 | --- | --- | --- |
 | a | aa | a 1/a 5: Matter, thing; a 2: 感叹词, standalone use or sentence-end. For sentence-ending, also use oo. |
-| æ | _æ |  |
+| æ | _æ | _æ 3: North |
 | η | _η | Negation, standalone use only, equivalent to "no" in English. Formal. |
 | ɑ | _ɑ |  |
 | e | ee | Confirmation, standalone use only, equivalent to "yes" in English. Formal. |
@@ -32,7 +32,7 @@ Use with pause
 | ɘ | _ɘ |  |
 | i | yi (ii) | yi 2: Three; (y)i 3: Water; yi 4: fancy (adjective.), formal, don't use alone (e.g. "ili" - pretty/fabulous); yi 5: to eat. |
 | ʩ | _ʩ |  |
-| o | oo |  |
+| o | oo | (Common ending for many words) |
 | ơ | _ơ |  |
 | ꝍ | _ꝍ |  |
 | ř | iř | iř 4: Questioning. "iř?" |
@@ -41,22 +41,27 @@ Use with pause
 | ɲ | _ɲ |  |
 | ü | yu | Transitional use, starting of a new sentence; Conversational (non-literal); Often use with "me". "yume..." |
 
-*Other Special Sound Words*
+***Other Special Sound Words***
 
 | Word | Meaning |
 | --- | --- |
 | (Eng 4) (完全闭嘴、鼻音) | Signifies wondering, 咦？In medalian writing they have a glyph just for this word; This word doesn't have a corresponding Vowel/Consonant notation. |
 | (Eng 1) (完全闭嘴、鼻音) | Lika "ah" in Japanese; Acklowledgement. |
 
-*Actions*
+**Grammatical**
+
+| Word | Usage |
+| --- | --- |
+| te 2 | 从属结构；相当于de, 's, of, の, 的 |
+
+***Actions***
 
 | YY (Tone) | Meaning |
 | --- | --- |
 | yi 3 | to see |
 | yi 5 | to eat |
-|  |  |
 
-*Colors*
+***Colors***
 
 | YY (Tone) | Meaning |
 | --- | --- |
@@ -76,19 +81,24 @@ Use with pause
 |  | Spring Gree (Color) |
 |  | Chartreuse (Color) |
 
-*Natural Elements*
+***Natural Elements***
 
 | YY (Tone) | Meaning |
 | --- | --- |
+| art 3 | Land |
 | fia 42 | Air |
 | fu 5 | (Gushing) wind |
 | i 3 | Water (Iki 32: Lake, Water) |
 | jia 2 |  |
 | jia 3 | Mountain |
 | jia 51 |  |
+| chet/shet (ṡet) | Hill |
+| tul 5 | Island |
+|  | Valley |
 | pa 5 | Electricity/Lightening (as observed from lightening and sky) |
+| loi | Sea |
 
-*Numbers*
+***Numbers***
 
 | YY (Tone) | Meaning |
 | --- | --- |
@@ -103,14 +113,14 @@ Use with pause
 | ga 3 | 8 |
 | uη 5 | 9 |
 
-*(Number) Quantifier*
+***(Number) Quantifier***
 
 | YY (Tone) | Meaning |
 | --- | --- |
 | oo 5 | Countable individual objects |
 | tim 5 | Numerous |
 
-*Emotions*
+***Emotions***
 
 | YY (Tone) | Meaning |
 | --- | --- |
@@ -120,13 +130,13 @@ Use with pause
 | ʒε/ʒi 1 | Brave, bravery |
 | si l | Lonely, loniness |
 
-*Common Adjectives*
+***Common Adjectives***
 
 | YY (Tone) | Meaning |
 | --- | --- |
 |  |  |
 
-*Geometry*
+***Geometry***
 
 | YY (Tone) | Meaning |
 | --- | --- |
@@ -135,28 +145,49 @@ Use with pause
 | mus5 | Rectangle, Rectangular |
 | lis5 | Long, tabular |
 
-*Spatial*
+***Directions***
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| mar 5 | North |
+| _æ 3 | South |
+| duz 4 | West |
+| xɜ 5 | East |
+| pu 3 | Up |
+| tu 3 | Down |
+| ye 3 | Front |
+| ṡɑ 5 | Back |
+| ɹɑ 3 | Top |
+| mir 5 | Bottom |
+| ka 3 | Middle, Center |
+| ia 2 | Inside |
+| zis 5 | Outside |
+| taf 4 | Edge |
+| ob 5 | Tip |
+
+***Spatial***
 
 | YY (Tone) | Meaning |
 | --- | --- |
 | ip 41 | Distant |
 | ma 5 | Big |
+| run 5 (ru-n/如恩, not rɲ/润 or rɑ) | Small |
 
-*Substance*
+***Substance***
 
 | YY (Tone) | Meaning |
 | --- | --- |
 | ma 2 | Matter, Thing |
 | la 5 | People, humanly (E.g. Mela) |
 
-*Relationship*
+***Relationship***
 
 | YY (Tone) | Meaning |
 | --- | --- |
 | da 5 | Father |
 | me 3' | Mother |
 
-*Uncatagorized*
+***Uncatagorized***
 
 | YY (Tone) | Meaning |
 | --- | --- |
@@ -165,3 +196,23 @@ Use with pause
 | na 1/5 | Star, burning sun |
 | dζ 5 |  |
 | linm 5 |  |
+
+# Alphabetical
+
+Include things above; For complete list (of words with more than 1 YY), see [Medalian to English Dictionary](https://github.com/Charles-Zhang-Project-Nine/Medalian/wiki/Medalian-to-English).
+
+## A
+
+* art 3. [Noun] Land
+
+## B
+
+## C
+
+## F
+
+* reơ 5. [Adjective] Freezing, frozen
+
+## L
+
+* loi 4. [Noun] Sea

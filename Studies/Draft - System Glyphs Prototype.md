@@ -103,6 +103,7 @@ Based on all sounds currently possible, there are the following *additional* com
 * **v**: vab, væb, vηb, vɑb, veb, vζb, v(en)b, vəb, v(εn)b, vib, vi̯b, vob, vơb, vꝍb, vub, v(ui)b, v(un)b, vüb
 * **w**: wab, wæb, wηb, wɑb, web, wζb, w(en)b, wəb, w(εn)b, wib, wi̯b, wob, wơb, wꝍb, wub, w(ui)b, w(un)b, wüb
 * **x**: xab, xæb, xηb, xɑb, xeb, xζb, x(en)b, xəb, x(εn)b, xib, xi̯b, xob, xơb, xꝍb, xub, x(ui)b, x(un)b, xüb
+    * (Remark) "xab" is like x(ia)-b, but xa is actually possible to denote as a single sound. In this sense, 'x' is more differently comparable to /ʃ/.
 * **ʝ**: ʝab, ʝæb, ʝηb, ʝɑb, ʝeb, ʝζb, ʝ(en)b, ʝəb, ʝ(εn)b, ʝib, ʝi̯b, ʝob, ʝơb, ʝꝍb, ʝub, ʝ(ui)b, ʝ(un)b, ʝüb
 * **ʐ**: ʐab, ʐæb, ʐηb, ʐɑb, ʐeb, ʐζb, ʐ(en)b, ʐəb, ʐ(εn)b, ʐib, ʐi̯b, ʐob, ʐơb, ʐꝍb, ʐub, ʐ(ui)b, ʐ(un)b, ʐüb
 
