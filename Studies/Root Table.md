@@ -21,11 +21,11 @@ Use with pause
 
 | Root| Long Form (YY Form) | Meaning |
 | --- | --- | --- |
-| a | aa | a 1/a 5: Matter, thing; a 2: 感叹词, standalone use or sentence-end. For sentence-ending, also use oo. |
+| a | aa | a 1/a 5: Matter, thing; a 2: 感叹词, standalone use or sentence-end. For sentence-ending, also use wu/uu. |
 | æ | _æ | _æ 3: North |
 | η | _η | Negation, standalone use only, equivalent to "no" in English. Formal. |
-| ɑ | _ɑ |  |
-| e | ee | Confirmation, standalone use only, equivalent to "yes" in English. Formal. |
+| ɑ | _ɑ | ang 3: Multiplication |
+| e | ee | ee2: Confirmation, standalone use only, equivalent to "yes" in English. Formal; e3: original. |
 | ζ | _ζ |  |
 | ɜ | _ɜ |  |
 | ə | _ə |  |
@@ -36,7 +36,7 @@ Use with pause
 | ơ | _ơ |  |
 | ꝍ | _ꝍ |  |
 | ř | iř | iř 4: Questioning. "iř?" |
-| u | wu |  |
+| u | wu/uu | (语气 ending for sentences) |
 | ⴢ | _ⴢ |  |
 | ɲ | _ɲ |  |
 | ü | yu | Transitional use, starting of a new sentence; Conversational (non-literal); Often use with "me". "yume..." |
@@ -53,6 +53,7 @@ Use with pause
 | Word | Usage |
 | --- | --- |
 | te 2 | 从属结构；相当于de, 's, of, の, 的 |
+| im 5 | That; Subject signifier - use in front of Noun and other grammatical modifiers |
 
 ***Actions***
 
@@ -127,6 +128,7 @@ Use with pause
 | wi 3 | Happy, happiness |
 | y(ɪn) 2 | Excited, excitement |
 | sơ (sol) 1 | Sad, sadness |
+| bia 51 | A kind of deep sadness because of knowledge of (unobtainable) things |
 | ʒε/ʒi 1 | Brave, bravery |
 | si l | Lonely, loniness |
 
@@ -135,6 +137,12 @@ Use with pause
 | YY (Tone) | Meaning |
 | --- | --- |
 |  |  |
+
+***Common Adverbs***
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| ʑel 4 | (Structural) Extremely; Sort of like highest tense conjugation in English; Or in Chinese it IS the highest tense. |
 
 ***Geometry***
 
@@ -187,6 +195,19 @@ Use with pause
 | da 5 | Father |
 | me 3' | Mother |
 
+**Mathematics**
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| ang 3 | Multiplication (expression) |
+| tol 4 | Factor |
+|  | Division |
+|  | Dividend |
+|  | Divisor |
+|  | Quotient |
+| ig (Yig) 5 | Sum (expression) |
+| hop 5 | Summand |
+
 ***Uncatagorized***
 
 | YY (Tone) | Meaning |
@@ -203,7 +224,7 @@ Include things above; For complete list (of words with more than 1 YY), see [Med
 
 ## A
 
-* art 3. [Noun] Land
+art 3. [Noun] Land
 
 ## B
 
@@ -211,8 +232,44 @@ Include things above; For complete list (of words with more than 1 YY), see [Med
 
 ## F
 
-* reơ 5. [Adjective] Freezing, frozen
+reơ 5. [Adjective] Freezing, frozen
+
+## G
+
+## H
+
+## I
+
+im 5. [Grammatical] That
+
+## K
+
+keb. [Grammatical] By, passive tense
 
 ## L
 
-* loi 4. [Noun] Sea
+loi 4. [Noun] Sea
+
+## N
+
+nos 4. [Verb] Become
+
+## W
+
+Wo 5. [Adjective] Fertile
+
+## O
+
+op. [Verb] Desert, Abadon
+
+## t
+
+ta. [Grammatical] Short for "te ma", denoting "the thing" (usually used with grammatical modifiers); E.g. Imepkebta Yil nosezo.
+
+## Y
+
+yil. [Adverb] Finally, in the end
+
+## Z
+
+zo. [Noun] Apperance
