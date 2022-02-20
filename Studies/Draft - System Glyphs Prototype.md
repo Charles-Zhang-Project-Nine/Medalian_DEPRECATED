@@ -76,6 +76,8 @@ All above is deprecated! *ekas* is two YY because it's actually *e* + *kas* - no
 
 Dry /ˈdɹaɪ/ ʒræ.
 
+Klu (v. Invent)
+
 ## 声母+韵母+辅音 (CVC)
 
 Based on all sounds currently possible, there are the following *additional* combinations if Medalian is a 声母+韵母+辅音 vocabulary system, plus all variations in tones.

@@ -54,6 +54,9 @@ Use with pause
 | --- | --- |
 | te 2 | 从属结构；相当于de, 's, of, の, 的 |
 | im 5 | That; Subject signifier - use in front of Noun and other grammatical modifiers |
+| ay 31 | And |
+| to 5 | Or |
+| | Not |
 
 ***Actions***
 
@@ -195,7 +198,7 @@ Use with pause
 | da 5 | Father |
 | me 3' | Mother |
 
-**Mathematics**
+***Mathematics***
 
 | YY (Tone) | Meaning |
 | --- | --- |
@@ -218,17 +221,35 @@ Use with pause
 | dζ 5 |  |
 | linm 5 |  |
 
+***Last Names (Single YY)***
+
+| YY (Tone) | Meaning |
+| --- | --- |
+| mei 3 | Used only as lastname (at the moment). |
+
 # Alphabetical
 
 Include things above; For complete list (of words with more than 1 YY), see [Medalian to English Dictionary](https://github.com/Charles-Zhang-Project-Nine/Medalian/wiki/Medalian-to-English).
 
 ## A
 
+al. [Adverb] Barely, Rarely, A little, A little bit
+
 art 3. [Noun] Land
+
+ay. [Grammatical] And
 
 ## B
 
+bi. []
+
 ## C
+
+## E
+
+elv. [Verb] Spoil
+
+em. [Verb] Force
 
 ## F
 
@@ -242,15 +263,29 @@ reơ 5. [Adjective] Freezing, frozen
 
 im 5. [Grammatical] That
 
+iv. [Verb] Create
+
+## J
+
+ja. [Adjective] New
+
 ## K
 
 keb. [Grammatical] By, passive tense
+
+klu. [Verb] Invent
 
 ## L
 
 loi 4. [Noun] Sea
 
+## M
+
 ## N
+
+niv. 
+
+nya. [Adjective] Once
 
 nos 4. [Verb] Become
 
@@ -260,16 +295,24 @@ Wo 5. [Adjective] Fertile
 
 ## O
 
-op. [Verb] Desert, Abadon
+op 31. [Verb] Desert, Abadon
+
+op 51. [Adjective] Good
 
 ## t
 
 ta. [Grammatical] Short for "te ma", denoting "the thing" (usually used with grammatical modifiers); E.g. Imepkebta Yil nosezo.
 
+to. [Grammatical] Or
+
 ## Y
+
+yag. [Verb] Destroy
 
 yil. [Adverb] Finally, in the end
 
 ## Z
+
+zel. [Noun] Evil
 
 zo. [Noun] Apperance
