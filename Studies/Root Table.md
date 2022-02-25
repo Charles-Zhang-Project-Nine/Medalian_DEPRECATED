@@ -245,6 +245,10 @@ bi. []
 
 ## C
 
+## D
+
+Dꝍ 3. [Verb] Wait
+
 ## E
 
 elv. [Verb] Spoil
@@ -263,17 +267,26 @@ reơ 5. [Adjective] Freezing, frozen
 
 im 5. [Grammatical] That
 
+ins 51. [Noun] Personality
+
 iv. [Verb] Create
 
 ## J
 
-ja. [Adjective] New
+ja 3. [Noun, Grammatical] What
+ja 5. [Adjective] New
 
 ## K
 
 keb. [Grammatical] By, passive tense
 
-klu. [Verb] Invent
+kə 5. [Noun] Spirit
+
+klu 3. [Verb] Invent
+
+kru 5. [Grammatical] Attached after a verb (sort of as conjugation) to denote negation - used particularly in imperative mood (祈使句), i.e. ask someone not to do something.
+
+kvi 5. [Noun] Quality
 
 ## L
 
@@ -299,15 +312,29 @@ op 31. [Verb] Desert, Abadon
 
 op 51. [Adjective] Good
 
-## t
+## P
+
+peg 51. [Noun] Environment
+
+## R
+
+ruk 51. [Adjective] Superior
+
+## S
 
 ta. [Grammatical] Short for "te ma", denoting "the thing" (usually used with grammatical modifiers); E.g. Imepkebta Yil nosezo.
 
 to. [Grammatical] Or
 
+## T
+
+trơ. [Noun] Fate, Destiny.
+
 ## Y
 
 yag. [Verb] Destroy
+
+yi 2. [Grammatical] End of sentence as question
 
 yil. [Adverb] Finally, in the end
 
