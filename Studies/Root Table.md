@@ -247,6 +247,8 @@ bi. []
 
 ## D
 
+da 5. [Adjective/Noun] Male; Mela: woman, Dala: man.
+
 Dꝍ 3. [Verb] Wait
 
 ## E
@@ -290,9 +292,13 @@ kvi 5. [Noun] Quality
 
 ## L
 
+la 3. [Noun] Person, Woman; Mela: woman, Dala: man.
+
 loi 4. [Noun] Sea
 
 ## M
+
+me 3. [Adjective/Noun] Female; Mela: woman, Dala: man.
 
 ## N
 
