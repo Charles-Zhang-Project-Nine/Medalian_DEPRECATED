@@ -126,17 +126,6 @@ Use with pause
 | oo 5 | Countable individual objects |
 | tim 5 | Numerous |
 
-***Emotions***
-
-| YY (Tone) | Meaning |
-| --- | --- |
-| wi 3 | Happy, happiness |
-| y(ɪn) 2 | Excited, excitement |
-| sơ (sol) 1 | Sad, sadness |
-| bia 51 | A kind of deep sadness because of knowledge of (unobtainable) things |
-| ʒε/ʒi 1 | Brave, bravery |
-| si l | Lonely, loniness |
-
 ***Common Adjectives***
 
 | YY (Tone) | Meaning |
@@ -231,6 +220,8 @@ Use with pause
 
 # Alphabetical
 
+<!--All words recorded here should be single-YY!-->
+
 Include things above; For complete list (of words with more than 1 YY), see [Medalian to English Dictionary](https://github.com/Charles-Zhang-Project-Nine/Medalian/wiki/Medalian-to-English).
 
 ## A
@@ -247,6 +238,8 @@ ay. [Grammatical] And
 
 bi. []
 
+bia 51. [Noun] (Emotion) A kind of deep sadness because of knowledge of (unobtainable) things; Single YY.
+
 ## C
 
 ## D
@@ -254,6 +247,8 @@ bi. []
 da 5. [Adjective/Noun] Male; Mela: woman, Dala: man.
 
 Dꝍ 3. [Verb] Wait
+
+ʒε/ʒi 1. [Adjective/Noun] (Emotion) Brave, bravery; Single YY.
 
 ## E
 
@@ -302,9 +297,11 @@ kvi 5. [Noun] Quality
 
 ## L
 
-la 3. [Noun] Person, Woman; Mela: woman, Dala: man.
+la 3. [Noun] Person, Woman, People (in general); Mela: woman, Dala: man. Medala: (specifically referring to) Medalian people.
 
 loi 4. [Noun] Sea
+
+lo 1/5. [Exclamation] (Emotion) "Good!"; Single YY. E.g. used to express applause and pleasant surprise. Use as ending of sentence. E.g. "ʒilo!" - "How brave!"
 
 ## M
 
@@ -323,6 +320,8 @@ nya. [Adjective] Once
 nos 4. [Verb] Become
 
 ## W
+
+wi 3. [Adjective/Noun] (Emotion) Happy, happiness; Single YY
 
 Wo 5. [Adjective] Fertile
 
@@ -348,6 +347,10 @@ se. [Verb] Speak.
 
 sev. [Verb] Love; sevi/səvi 15 (Adjective/Noun): Loved
 
+si l. [Adjective/Noun] (Emotion) Lonely, loniness; Single YY
+
+sơ (sol) 1. [Adjective/Noun] (Emotion) Sad, sadness; Single YY
+
 ## T
 
 ta. [Grammatical] Short for "te ma", denoting "the thing" (usually used with grammatical modifiers); E.g. Imepkebta Yil nosezo.
@@ -363,6 +366,8 @@ vù. [Grammatical] Most (e.g. highest, most handsome, etc.)
 ## Y
 
 yag. [Verb] Destroy
+
+y(ɪn) 2. [Exclamation] (Emotion) Excited, excitement; Single-YY
 
 yi 2. [Grammatical] End of sentence as question
 
