@@ -32,3 +32,8 @@
 <!--Z-->
 
 # Proposal
+
+# Translation Examples
+
+* *"(Remark) As per recent event of many people: Hanrui, Charlotte, Lily, and of course, my beloved Huang Xinxin"* (As per according to my experience of recent events with those people...) - *"(Seri) El vùja ecta (ti)ak medala: HR, CS, L. Ay mu səvì HXX."* (According to recent events of many people - HR/H2, CS, L. And my beloved HXX).
+    * Vocabulary: As - Not used; Per - (according to); Recent - ; Event(s) - ; Of - ; Many - ; People - ; Names used abbreviations for obsecurity: HR, CS, L, HXX.

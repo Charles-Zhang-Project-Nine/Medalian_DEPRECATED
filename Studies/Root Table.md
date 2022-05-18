@@ -62,6 +62,8 @@ Use with pause
 
 | YY (Tone) | Meaning |
 | --- | --- |
+| ri 2 | to write |
+| se 5 | to speak |
 | yi 3 | to see |
 | yi 5 | to eat |
 
@@ -233,6 +235,8 @@ Include things above; For complete list (of words with more than 1 YY), see [Med
 
 ## A
 
+ak. [Adj] Many, A lot
+
 al. [Adverb] Barely, Rarely, A little, A little bit
 
 art 3. [Noun] Land
@@ -252,6 +256,12 @@ da 5. [Adjective/Noun] Male; Mela: woman, Dala: man.
 Dꝍ 3. [Verb] Wait
 
 ## E
+
+ec. [Verb] Happen
+
+ect. [Noun] Activity; Ecta: event
+
+el. [Prep] According to; About
 
 elv. [Verb] Spoil
 
@@ -275,7 +285,7 @@ iv. [Verb] Create
 
 ## J
 
-ja 3. [Noun, Grammatical] What
+ja 3. [Noun/Grammatical] What
 ja 5. [Adjective] New
 
 ## K
@@ -299,6 +309,10 @@ loi 4. [Noun] Sea
 ## M
 
 me 3. [Adjective/Noun] Female; Mela: woman, Dala: man.
+
+medala. [Noun] People
+
+mu. [Adjective] My
 
 ## N
 
@@ -324,17 +338,27 @@ peg 51. [Noun] Environment
 
 ## R
 
+ri. [Verb] Write
+
 ruk 51. [Adjective] Superior
 
 ## S
+
+se. [Verb] Speak.
+
+sev. [Verb] Love; sevi/səvi 15 (Adjective/Noun): Loved
+
+## T
 
 ta. [Grammatical] Short for "te ma", denoting "the thing" (usually used with grammatical modifiers); E.g. Imepkebta Yil nosezo.
 
 to. [Grammatical] Or
 
-## T
-
 trơ. [Noun] Fate, Destiny.
+
+## V
+
+vù. [Grammatical] Most (e.g. highest, most handsome, etc.)
 
 ## Y
 
