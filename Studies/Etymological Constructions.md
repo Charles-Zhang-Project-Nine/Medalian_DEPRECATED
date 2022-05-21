@@ -1,3 +1,5 @@
+<!--Mapping from English/Wanted Word to Medalian-->
+
 # Cases
 
 <!--In English Alphabetical Order-->
@@ -10,18 +12,27 @@
     * 愛されし者: 愛されし + Noun ending
     * In summary, the key element is the verb "love"
 <!--C-->
+* City:
+    * Medalian vocabulary construction note: Use a single-YY.
 <!--D-->
 <!--E-->
 * Event:
     * Event: 
     * 事件/事情: 
     * In summary, the key element is: "thing", with a strong focus on the "happening", not just an object; "Activity"
+* Evil: 邪恶, 邪+恶
+    * Medalian vocabulary construction advice: Combinational, make it multi-YY.
 <!--F-->
 <!--G-->
 <!--H-->
 <!--I-->
 <!--J-->
 <!--K-->
+* King:
+    * King:
+    * 王:
+    * In summary, the key semantical meaning is "leader", and the key phenome element is "".
+    * Medalian vocabulary note: This word cannot be further deconstructed, so it should be made simply as a single-YY.
 <!--L-->
 <!--M-->
 <!--N-->

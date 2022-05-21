@@ -37,3 +37,4 @@
 
 * *"(Remark) As per recent event of many people: Hanrui, Charlotte, Lily, and of course, my beloved Huang Xinxin"* (As per according to my experience of recent events with those people...) - *"(Seri) El vùja ecta (ti)ak la: HR, CS, L. Ay mu səvì HXX."* (According to recent events of many people - HR/H2, CS, L. And my beloved HXX).
     * Vocabulary: As - Not used; Per - El (according to); Recent - vuja; Event(s) - ecta; Of - ti; Many - ak; People - la; Names used abbreviations for obsecurity: HR (further obsecured with "H2"), CS, L, HXX.
+* "The super awesome Medalian (language) is here!" - ???? (Most awesome Medalian arrived!)

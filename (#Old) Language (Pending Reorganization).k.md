@@ -6,9 +6,11 @@
 
 ## (design, language, EID2020122302) Enc1
 
+<!--Can now be collected into Etymological Evolutions-->
+
 ```csv
 Index,PinYin,LanguageCategory,Meaning,Origin
-001,nénChinese,Denotes a species of human-like people,Unknown
+001,nén,Chinese,Denotes a species of human-like people,Unknown
 002,chī,Chinese,Denotes a species of human-like people,Unknown
 003,ài,Chinese,Denotes a kind of metal that Miah people treasures (which is not gold),Unknown
 ```

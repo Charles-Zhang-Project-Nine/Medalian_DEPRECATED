@@ -1,1 +1,0 @@
-From spanish word Nuestro.

@@ -1,5 +1,0 @@
-(Similar to Chinese names for people) There are mostly 3 catagories of names for Medalian inheritage. The idea here is that *a person's name should be easily distinguishable from ordinary words in a sentence*.
-
-1. Single word (single YY): very rare, most commonly seen in more ancient times;
-2. 2-4 YY with (including) a leading Lastname YY (there are YYs reserved for last names): Common in the pre-modern era;
-3. Two sections of 2-4 YY and even three sections for compound names (which looks like English names): Common in the modern era with the booming population; This kind of naming gives people a sophisticated sound, and is a good carrier of good wishes. In this trend, one of the sections (or part of it) can develop into a new kind of "Family Name", e.g. "Ora" in the first section of Medalian queens, and "Doqi" for Zana and Jouzou.
