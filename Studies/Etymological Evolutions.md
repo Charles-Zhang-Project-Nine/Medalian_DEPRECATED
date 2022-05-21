@@ -14,8 +14,10 @@
 <!--B-->
 <!--C-->
 <!--D-->
+* (Star, Object) Doa: Light; "Doma", the sun.
 <!--E-->
 * (Book, Emotion) Eapsil: From "ip" + "sil" (longingness-sad, Medalian), Saudade.
+    * (Project Nine, Medalian, Translation) Eapsil 遏蒲歇/遏菩歇 ——另外这个名字也很适合让小说庚“古典”一点：不是指其用词，而是那样一种韵味和气质更加（文化、古典）底蕴浓厚。
 <!--F-->
 <!--G-->
 * (Geography) Glauglau (Sol system moon)<!--Tellurian entity in Medalian name-->: (idea from: Glock Glock Eyes)

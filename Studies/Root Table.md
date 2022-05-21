@@ -40,7 +40,7 @@ Some usages of single-YY in broad categories:
 | i | yi (ii) | yi 2: Three; (y)i 3: Water; yi 4: fancy (adjective.), formal, don't use alone (e.g. "ili" - pretty/fabulous); yi 5: to eat. |
 | ʩ | _ʩ |  |
 | o | oo | (Common ending for many words) |
-| ơ | _ơ |  |
+| ơ | _ơ | Sphere |
 | ꝍ | _ꝍ |  |
 | ř | iř | iř 4: Questioning. "iř?" |
 | u | wu/uu | (语气 ending for sentences) |
@@ -167,9 +167,11 @@ da 5. [Noun] Relationship; Father.
 
 da 5. [Adjective/Noun] Male; Mela: woman, Dala: man.
 
-dəs 5. [Noun] Geometry; Sphere, Spherical.
+dəs 5. [Noun] UNALLOCATED
 
 Dꝍ 3. [Verb] Wait
+
+doa . [Noun] Light
 
 ʒε/ʒi 1. [Adjective/Noun] (Emotion) Brave, bravery; Single YY.
 
@@ -290,6 +292,8 @@ Wo 5. [Adjective] Fertile
 
 ## O
 
+o 3. [Noun] Geometry; Sphere, Spherical.
+
 ob 5. [Noun] Direction; Tip.
 
 op 31. [Verb] Desert, Abadon
@@ -313,6 +317,8 @@ ruk 51. [Adjective] Superior
 run 5 (ru-n/如恩, not rɲ/润 or rɑ). [Adjective] Small.
 
 ## S
+
+sangt. [Noun] (备选发音)/PLACEHOLDER; Might refer to a particular kind of ancient structure (like pyramid)
 
 sark (asrk<!--Looks cool-->, sɒk). [Noun] King/王
 
