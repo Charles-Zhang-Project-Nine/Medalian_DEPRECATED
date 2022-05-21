@@ -57,6 +57,7 @@
 <!--Q-->
 <!--R-->
 <!--S-->
+* (City, Name) Sɒkta: Sɒk + Ta, King City
 <!--T-->
 * (Language, Grammar) Grammar `ti`: ti -> te (per language name "Te Reo")
 * (Geography) Trilaris (Sol system planet): From "Trisolarans".
